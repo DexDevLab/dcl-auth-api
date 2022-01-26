@@ -52,7 +52,7 @@
 
 #### 📦Package Manager: [Yarn](https://yarnpkg.com)
 
-#### ⚙️Development Tools: None yet
+#### ⚙️Development Tools: [Visual Studio Code](https://code.visualstudio.com)
 
 #### 🎨Style and Markup: [SASS](https://sass-lang.com), [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS), [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
@@ -65,11 +65,25 @@
 
 ## 📌 Changelogs
 
-> ### 📍v0.0.1-220118
+> ### v0.0.1-220118
+>
 > ##### First commit:
+>
+> <br>
 > Project folder and README build<br>
-> API first tests
+>
+> API first tests<br>
 
+<br>
+
+> ### v0.0.2-220126
+>
+> <br>
+> Using ChakraUI for frontend development for testing purposes (might be changed later)<br>
+>
+> Component Implementation (Form for generic forms, FormPassword for password verification and validation, Header for page header, StyleButton for generic buttons)<br>
+>
+> First API methods for CRUD calling (still under development)<br>
 
 <br>
 <br>
@@ -88,6 +102,7 @@ Made with ☕️ and 💜 by Daniel Augusto Monteiro de Almeida<a href="https://
 
 This project is under [**GNUv3 - GENERAL PUBLIC LICENSE**](./license).
 
+<!-- CSS VARIABLES -->
 <style>
 h1
 {
